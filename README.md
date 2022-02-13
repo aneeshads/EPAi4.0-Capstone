@@ -28,10 +28,10 @@ Access the Faker Node Tree from Blender </br> </br>
 <img src="assets/faker_node_tree.png" width="600" > </br>
 
 #### Add the required nodes and create node links
-1. Add the required provider nodes
-2. Configure the provier nodes through user inputs available in each node
-3. Add the generator node and select the number of records required
-4. Link the provider nodes to the generator node </br> </br>
+1. Add the required Provider nodes
+2. Configure the Provider nodes through user inputs available in each node
+3. Add the Generator node and select the number of records required
+4. Link the Provider nodes to the Generator node </br> </br>
 <img src="assets/myFaker_nodes.png" width="600" >
 
 ### 4. View the generated faker data in Blender console
