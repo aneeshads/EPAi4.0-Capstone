@@ -11,19 +11,33 @@ _myfaker_ is an add-on for Blender, which can be used to generated data using th
 Here is a link to a video demonstration of the _myfaker_ add-on
 
 ## Usage
-### Install Faker library in Blender 
+### 1. Install Faker library in Blender 
 Install the _faker_ library in Blender by using the following commands in the Python console available in Blender:
 ```python
 from pip._internal import main
 main(['install', 'faker'])
 ```
-### Add the myfaker add-on in Blender
+### 2. Add the myfaker add-on in Blender
 Dowload the _myfaker.zip_ file from the "_add-on_" folder in this repository, and add the myfaker add-on using the "_Preferences_" section in Blender. You can also download the code and zip the contents to generate _myfaker.zip_</br> </br>
 <img src="assets/myfaker_addon.png" width="600" >
 
-### Access the Faker Node Tree
+### 3. Configure the Provider and Generator Nodes
+
+#### Access the Faker Node Tree
 Access the Faker Node Tree from Blender </br> </br>
-<img src="assets/faker_node_tree.png" width="600" >
+<img src="assets/faker_node_tree.png" width="600" > </br>
+
+#### Add the required nodes and create node links
+1. Add the required provider nodes
+2. Configure the provier nodes through user inputs available in each node
+3. Add the generator node and select the number of records required
+4. Link the provider nodes to the generator node </br> </br>
+<img src="assets/myFaker_nodes.png" width="600" >
+
+### 4. View the generated faker data in Blender console
+Open the console in Blender to view the generated faker data </br> </br>
+<img src="assets/myFaker_nodes.png" width="600" >
+
 
 ## Features
 Providers from the Faker python library has been mapped as '_provider_' nodes in _myfaker_ add-on, and the following _provider_ nodes are available for users to generate data:</br>
