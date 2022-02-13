@@ -7,6 +7,9 @@
 _myfaker_ is an add-on for Blender, which can be used to generated data using the _Node_ _Editor_ in Blender. _myfaker_ simulates the faker library and provides provider nodes and configurations for the end user to select. _myfaker_ can be added to Blender, and the node editor can be used to configure the node settings; the output data is generated and displayed in the console. This version of _myfaker_ is compatible with Blender _version_ _3.0.0_ </br> </br>
 <img src="assets/myFaker_nodes.png" width="1000" >
 
+## Demo
+Here is a link to a video demonstration of the _myfaker_ add-on
+
 ## Usage
 ### Install Faker library in Blender 
 Install the _faker_ library in Blender by using the following commands in the Python console available in Blender:
