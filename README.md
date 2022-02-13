@@ -8,7 +8,7 @@ _myfaker_ is an add-on for Blender, which can be used to generate data using the
 <img src="assets/myFaker_nodes.png" width="1000" >
 
 ## Demo
-Here is a link to a video demonstration of the _myfaker_ add-on:
+Click on this link to view a video demonstration of myfaker: [Video demo of myfaker](https://youtu.be/l97bJcbhoGs)
 
 ## Usage
 ### 1. Install Faker library in Blender 
