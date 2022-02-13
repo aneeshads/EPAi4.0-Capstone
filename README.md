@@ -36,7 +36,7 @@ Access the Faker Node Tree from Blender </br> </br>
 
 ### 4. View the generated faker data in Blender console
 Open the console in Blender to view the generated faker data </br> </br>
-<img src="assets/output_faker_data.png" width="600" >
+<img src="assets/faker_output.png" width="600" >
 
 
 ## Features
